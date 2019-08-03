@@ -1,0 +1,17 @@
+{
+  "name": "@momocode/parse-s3-uri",
+  "version": "0.0.1",
+  "description": "Parse s3://bucket/key style uri",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": "https://github.com/momocode/parse-s3-uri-js",
+  "author": "Simo Tukiainen <simo@momocode.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
