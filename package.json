@@ -1,6 +1,6 @@
 {
   "name": "@momocode/parse-s3-uri",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Parse s3://bucket/key style uri",
   "main": "index.js",
   "scripts": {
